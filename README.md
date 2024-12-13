@@ -1,1 +1,1 @@
-# live-bootcamp-capstone
+# Based on project template for rp2040-hal
